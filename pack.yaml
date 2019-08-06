@@ -1,0 +1,17 @@
+---
+ref: stackstorm_chatops
+name: Basic Chatops Testing
+description: This is a simple pack to run a python code in stackstorm
+keyword:
+  - example
+  - test
+  - python
+version: 1.0.0
+python_versions:
+  - "3"
+  - "2"
+author: Nihilent Analytics Ltd.
+email: info@nal.com
+contributors:
+  - "Pradipta <pradipta.das@gmail.com>"
+  - "Pradipta <pradipta.das@nihilentanalytics.com>"
