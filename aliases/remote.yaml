@@ -1,6 +1,6 @@
 ---
-name : "remote_shell_cmd"
-action_ref : "core.remote"
+name : "local_python_version_script"
+action_ref : "stackstorm_chatops.pythonversion"
 description: "Execute a command on a remote host via SSH."
 formats:
   - "run {{cmd}} on {{hosts}}"

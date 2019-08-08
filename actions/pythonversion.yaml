@@ -1,0 +1,8 @@
+---
+name: pythonversion
+pack: stackstorm_chatops
+runner_type: "python-script"
+description: Hello Greet StackStorm in python script 
+enabled: true
+entry_point: pythonversion.py
+parameters: {}
